@@ -16,6 +16,7 @@ namespace EjercicioTelegrama
         int numPalabras = 0;
         double coste;
         string variableUsuario2;
+        string variableusuario1cambio1;
 
         //Leo el telegrama  
         textoTelegrama = txtTelegrama.Text; 
